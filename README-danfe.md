@@ -1,4 +1,4 @@
-# Case Study: Endereço de Entrega na DANFE
+# PROJETO: Endereço de Entrega na DANFE
 
 **Projeto de adequação fiscal e logística em SAP | Liderança técnica e levantamento de requisitos**
 
